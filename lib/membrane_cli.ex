@@ -1,18 +1,6 @@
 defmodule Membrane.CLI do
   @moduledoc """
-  Documentation for Membrane.CLI.
+  CLI interface for the Membrane Framework.
   """
 
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Membrane.CLI.hello
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
